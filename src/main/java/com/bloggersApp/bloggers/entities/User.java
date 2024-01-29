@@ -2,6 +2,7 @@ package com.bloggersApp.bloggers.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.antlr.v4.runtime.misc.NotNull;
 
 @Entity
 @Table(name="users")

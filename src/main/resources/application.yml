@@ -15,10 +15,6 @@ spring:
       # other options , create, update, create-drop, validate
     show-sql: true
 
-
-
-
-
 # Configs for custom port
 #server:
 #  port:
